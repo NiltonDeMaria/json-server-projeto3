@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nome": "Eduardo Costa da Silva",
+      "sexo": "masculino",
+      "plano": "familiar",
+      "idade": 48,
+      "id": 1
+    },
+    {
+      "nome": "Luana Freitas Fidelis",
+      "sexo": "feminino",
+      "plano": "empresarial",
+      "idade": 25,
+      "id": 2
+    },
+    {
+      "nome": "Murilio Freitas Gonçalves",
+      "sexo": "masculino",
+      "plano": "individual",
+      "idade": 86,
+      "id": 3
+    },
+    {
+      "nome": "Lucas da Silva Lima",
+      "sexo": "masculino",
+      "plano": "familiar",
+      "idade": 23,
+      "id": 4
+    },
+    {
+      "nome": "Juliana Pires Farias",
+      "sexo": "feminino",
+      "plano": "individual",
+      "idade": 24,
+      "id": 5
+    }
+  ]
+}
